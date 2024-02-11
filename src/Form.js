@@ -46,7 +46,7 @@ class Form extends Component {
                 />
                 <input 
                     type="button"
-                    value="Submit"
+                    value="Enviar"
                     onClick={this.submitForm}
                 />
             </form>
